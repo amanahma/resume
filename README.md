@@ -1,2 +1,3 @@
 # resume
-Aman Ahmad
+Aman Ahmad IIT Kharagpur
+
